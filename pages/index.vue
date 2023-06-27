@@ -1,7 +1,7 @@
 <template>
   <v-container>
     <section>
-      <h1 class="mb-4">Program Weighted Strings</h1>
+      <h1 class="mb-4">1. Program Weighted Strings</h1>
       <v-card class="pa-4">
         <v-text-field
           v-model="string"
